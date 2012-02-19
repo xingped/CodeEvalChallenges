@@ -1,3 +1,8 @@
+#ifndef PALINDROME_H
+#define PALINDROME_H
+
+#include <stdlib.h>
+
 int is_pal(char* test_string);
 
 int is_pal(char* test_string)
@@ -13,9 +18,11 @@ int is_pal(char* test_string)
 		}
 		else
 		{
-			return(1);
+			return(0);
 		}
 	}
 	
-	return(0);
+	return(1);
 }
+
+#endif
