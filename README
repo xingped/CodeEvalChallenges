@@ -1,0 +1,27 @@
++-----------------------------------------------+
+| CodeEval Challenges README                    |
+| Software Version 1.0                          |
+| Author: Paul Gatterdam
+| Release: February 19th, 2012                  |
+| https://github.com/xingped/CodeEvalChallenges |
++-----------------------------------------------+
+
+This project contains solutions to the challenges presented at the CodeEval
+website http://www.codeeval.com.
+
+Contents:
+  - Palindromic Ranges Challenge
+
+
+Version History
+----------------
+1.0: Added Palindromic Ranges Challenge
+
+
++------------------------------+
+| Contact Information          |
++------------------------------+
+| Paul Gatterdam               |
+| pjgatt56-at-gmail-dot-com    |
+| http://www.paulgatterdam.com |
++------------------------------+
