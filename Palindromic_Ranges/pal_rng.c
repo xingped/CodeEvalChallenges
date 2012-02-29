@@ -36,7 +36,7 @@ int main(int argc, char* argv[])
 		
 		/*
 		 * Main algorithm for stepping through number range.
-		 * Exact runtime: (n^3 + 3n^2 + 2n)/6
+		 * Runtime: (n^3 + 3n^2 + 2n)/6
 		 */
 		
 		// Start with range minimums at the given minimum
